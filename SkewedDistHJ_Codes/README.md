@@ -1,4 +1,4 @@
-# SKEWHJs
+# SkewedDistHJ
 Hello, here is the project code A of the paper "One Size Cannot Fit All: a Self-Adaptive Solution towards Skewed Hash Join in Shared-nothing RDBMSs". We use cockroach(v20.1.174) as the prototype code to implement the entire solution mentioned in the paper. The changed files in the project have been organize to this repository. To run this project, just replace them with the corresponding files in the cockroach.
 
 ## data.proto
